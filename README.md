@@ -3,7 +3,7 @@ This application translates American sign language into English language in real
 
 ## Project Team Members: <br />
 Machine Learning: Neha Gupta, [Kavin Kumar Singh](https://github.com/kavinsingh28) <br />
-Mobile Application: Mohit Jain
+Mobile Application: Mohit Jain, Pradeep Kumar
 
 ## Find APK Here: <br />
 [APK](https://github.com/codedog001/sign_language_translator_realtime/files/6986923/APK.zip)
